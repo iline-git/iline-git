@@ -1,16 +1,17 @@
-## Hi there 👋
+# Ай Лайн — ИТ-аутсорсинг
 
-<!--
-**iline-git/iline-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Мы занимаемся построением и сопровождением ИТ-инфраструктуры для бизнеса.
 
-Here are some ideas to get you started:
+Здесь публикуем собственные инструменты, скрипты, шаблоны и интеграции, которые используем в ежедневной работе системных администраторов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Что публикуем
+
+- инструменты для Zabbix
+- PowerShell-скрипты
+- автоматизацию Windows и Linux
+- решения для MikroTik и сетевой инфраструктуры
+- инструменты мониторинга
+- автоматизацию резервного копирования
+- полезные конфигурации и интеграции
+
+🌐 [iline.pro](https://iline.pro)
